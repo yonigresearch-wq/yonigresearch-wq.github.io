@@ -1,8 +1,8 @@
     main:
       - title: "CV"
         url: /cv/
-      - title: "Projects"
-        url: /projects/
+      - title: "Programming"
+        url: /programming/
       - title: "Experience"
         url: /experience/
       - title: "Contact"
