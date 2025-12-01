@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Yoni Green"
   avatar :
-  bio    : "Statistician | Biostatistics M.Sc Student"
+  bio    : 'Statistician | Biostatistics M.S.c Student'
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
