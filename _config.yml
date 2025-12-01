@@ -62,9 +62,6 @@ author:
   avatar :
   bio    : 'Statistician | Biostatistics M.S.c Student'
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:yoni.gresearch@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yoni-green-a83837219"
@@ -74,9 +71,6 @@ author:
 
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:yoni.gresearch@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yoni-green-a83837219"
