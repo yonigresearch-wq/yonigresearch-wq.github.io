@@ -3,7 +3,9 @@ permalink: /experience/
 title: "Experience"
 ---
 
-**Statistician**
+---
+
+**STATISTICIAN**
 
 *Cancer Research Unit, Emek Medical Center.*
 
@@ -16,7 +18,7 @@ title: "Experience"
 
 --- 
 
-**M.Sc. Thesis on GWAS**
+**M.S.C THESIS ON GWAS**
 
 *Supervised by Prof. Saharon Rosset, TAU.*
 
@@ -28,7 +30,7 @@ title: "Experience"
 
 ---
 
-**Clinical Data Analsysis | Regulation and Finance Study Coordinator**
+**CLINICAL DATA ANALYST AND FINANCE STUDY COORDINATOR**
 
 *Psychiatric and Cancer Research Units, Emek Medical Center.*
 
