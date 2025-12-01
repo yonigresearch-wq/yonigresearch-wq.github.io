@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yoni Green"
-  avatar : "/assets/images/Screenshot (1).jpg"
+  avatar :
   bio    : "Statistician | Biostatistics M.Sc Student"
   links:
 #    - label: "Website"
