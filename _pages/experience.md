@@ -13,7 +13,7 @@ title: "Experience"
 
 - Methodological planning of research projects in collaboration with unit investigators
 - Cleaning and pre-processing real-world clinical data from Israel’s largest HMO database (Clalit’s Research Room)
-- Executing advanced statistical analyses, and ML workflows
+- Executing advanced statistical analyses and ML workflows
 - Summarizing results for scientific manuscripts and guiding researchers through the inference process
 
 --- 
