@@ -60,32 +60,32 @@ plugins:
 author:
   name   : "Yoni Green"
   avatar :
-  bio    : "Statistician | Biostatistics M.Sc Student"
+  bio    : 'Statistician | Biostatistics M.S.c Student'
   links:
    - label: "Email"
-      icon: "fas fa-fw fa-gmail"
-      url: "yoni.gresearch@gmail.com"
+     icon: "fas fa-fw fa-envelope"
+     url: "url: "mailto:yoni.gresearch@gmail.com"
    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yoni-green-a83837219"
+     icon: "fab fa-fw fa-linkedin"
+     url: "https://www.linkedin.com/in/yoni-green-a83837219"
    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yonigresearch-wq"
+     icon: "fab fa-fw fa-github"
+     url: "https://github.com/yonigresearch-wq"
 #    - label: "Instagram"
 #     icon: "fab fa-fw fa-instagram"
 #     url: "https://instagram.com/"
 
 footer:
   links:
-   - label: "Gmail"
-      icon: "fas fa-fw fa-gmail"
-      url: "yoni.gresearch@gmail.com"
+   - label: "Email"
+     icon: "fas fa-fw fa-envelope"
+     url: "mailto:yoni.gresearch@gmail.com"
    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yoni-green-a83837219"
+     icon: "fab fa-fw fa-linkedin"
+     url: "https://www.linkedin.com/in/yoni-green-a83837219"
    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yonigresearch-wq"
+     icon: "fab fa-fw fa-github"
+     url: "https://github.com/yonigresearch-wq"
 
 defaults:
   # _posts
