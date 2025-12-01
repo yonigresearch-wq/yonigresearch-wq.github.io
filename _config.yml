@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
@@ -62,13 +62,13 @@ author:
   avatar :
   bio    : "Statistician | Biostatistics M.Sc Student"
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-    - label: "LinkedIn"
+   - label: "Email"
+      icon: "fas fa-fw fa-gmail"
+      url: "yoni.gresearch@gmail.com"
+   - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yoni-green-a83837219"
-    - label: "GitHub"
+   - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yonigresearch-wq"
 #    - label: "Instagram"
@@ -77,15 +77,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+   - label: "Gmail"
+      icon: "fas fa-fw fa-gmail"
+      url: "yoni.gresearch@gmail.com"
+   - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yoni-green-a83837219"
+   - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/yonigresearch-wq"
 
 defaults:
   # _posts
