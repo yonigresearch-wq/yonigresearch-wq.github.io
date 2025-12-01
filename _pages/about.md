@@ -1,8 +1,30 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /experience/
+title: "Experience"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Statistician**
+*Cancer Research Unit, Emek Medical Center.*
+2024 - Present
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- Methodological planning of research projects in collaboration with unit investigators
+- Cleaning and pre-processing real-world clinical data from Israel’s largest HMO database (Clalit’s Research Room)
+- Executing advanced statistical analyses, and ML workflows
+- Summarizing results for scientific manuscripts and guiding researchers through the inference process
+
+**M.Sc. Thesis on GWAS**
+*Supervised by Prof. Saharon Rosset, TAU.*
+2025 - Present
+
+- Developing estimation methods for percentiles in permutation tests for high-dimensional genomic data
+- Applying advanced MCMC and Importance Sampling techniques in computational simulations
+- Focused on high-dimensional inference and determining significance thresholds for genome-wide studies
+
+**Clinical Data Analsysis | Regulation and Finance Study Coordinator**
+*Psychiatric and Cancer Research Units, Emek Medical Center.*
+2022 - 2024
+
+- Statistical analysis of clinical trial data
+- Managing financial aspects of studies, including budgetary appendices and negotiations with pharmaceutical companies
+- Exclusive responsibility of regulatory affairs and communications with the Helsinki ethics committee
+
