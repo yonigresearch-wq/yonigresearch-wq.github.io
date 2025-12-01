@@ -9,5 +9,3 @@ permalink: /cv/
   height="720" 
   style="border: none;">
 </iframe>
-
-1VgSXX3Xkr-slRPKPe99ZZjBVFDs6zvIq
