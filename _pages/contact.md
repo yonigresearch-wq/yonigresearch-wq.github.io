@@ -4,8 +4,8 @@ permalink: /contact/
 author_profile: true
 ---
 
-- Yoni.gresearch@gmail.com
-- Jonathangre@clalit.org.il
-- 052-204-7544
+Yoni.gresearch@gmail.com
+Jonathangre@clalit.org.il
+052-204-7544
    
 
