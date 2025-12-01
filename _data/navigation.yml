@@ -4,7 +4,7 @@
       - title: "Programming"
         url: /programming/
       - title: "Education"
-      - url: /education/
+        url: /education/
       - title: "CV"
         url: /cv/ 
       - title: "Contact"
