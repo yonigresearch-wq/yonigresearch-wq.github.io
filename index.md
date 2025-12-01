@@ -6,15 +6,4 @@ layout: single
 author_profile: true
 ---
 
-Hi! I’m a statistician specializing in real-world clinical data analysis, machine learning workflows, and advanced simulation methods. I’m currently pursuing my M.Sc in Biostatistics while working at the Cancer Research Unit at Emek Medical Center.
-
-## Quick Links
-
-# - [View my CV](cv)
-
-# - [Projects](projects)
-
-# - [Experience](experience)
-
-# - [Contact](contact)
-
+Cancer research Statistician and Biostats MSc student, with hands on experience cleaning and analyzing real-world data, building Machine Learning workflows and implementing advanced simulation methods in both Python and R. Experience working in cooperation with multi-disciplinary teams and communicating results to non-technical professionals.
