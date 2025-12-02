@@ -78,9 +78,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yonigresearch-wq"
 
-atom_feed:
-  hide: true
-
 defaults:
   # _posts
   - scope:
