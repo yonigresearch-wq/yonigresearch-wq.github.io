@@ -5,42 +5,40 @@ permalink: /programming/
 
 **Python**
 
-- Fluent in building clean Machine Learning Workflows in python
-- Experience orking with various data types (e.g., image, tabular, molecular)
-- numpy, pandas, matplotlib, sklearn, CV, torch
+- Skilled in developing clean, robust machine-learning workflows  
+- Experience working with diverse data types (image, tabular, molecular)  
+- Tools and libraries: numpy, pandas, matplotlib, scikit-learn, OpenCV, PyTorch  
 
---- 
+---
 
 **R**
 
-- Experience cleaning, analyzig high dimensional data
-- Constructing complex combinatoric algorithms and numeric simulations
-- dplyr, kable, ggplot2, glmnet, randomForest, XGBoost, survival, bootstrap
+- Experience cleaning, processing, and analyzing high-dimensional data  
+- Building complex combinatorial algorithms and numerical simulations  
+- Packages: dplyr, kable, ggplot2, glmnet, randomForest, XGBoost, survival, bootstrap  
 
---- 
+---
 
 **SQL**
 
-- Experience with data manipulation and writing complex queries in SQL
+- Proficient in data manipulation and writing advanced SQL queries  
 - Environments: SAS (PROC SQL) and Python (SQLAlchemy, ipython-sql)
 
 ---
 
-**Google-Colab**
+**Google Colab**
 
-- Proefficient in writing clean, readable R/Pyhton notebooks
-- Project Colaborations
+- Skilled in producing clean, readable R and Python notebooks  
+- Experience collaborating on shared Colab-based projects
 
 ---
 
-**Git and github**
+**Git and GitHub**
 
-- Experinced with git and github for version control and project collaboration
+- Proficient with Git and GitHub for version control, workflow management, and collaborative development
 
 ---
 
 **SAS and SPSS**
 
-- Expereince performing basic data summaries, visualizations and statistical analyses
-
-
+- Experience performing data summaries, visualizations, and statistical analyses in clinical and research settings
