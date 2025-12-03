@@ -16,9 +16,8 @@
 title: YG Statistics and Clinical Research
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Yoni Green – Cancer research statistician and Biostatistics MSc student 
+  specializing in ML workflows and advanced statistical modeling for real-world clinical data. 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "neon"
