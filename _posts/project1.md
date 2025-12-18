@@ -1,8 +1,7 @@
 ---
 title: "Rectal Cancer Survival and PDE5 Inhibitor Use"
-last_modified_at:
 categories:
-  - Blog
+  - Projects
 tags:
   - Post Formats
   - readability
@@ -49,4 +48,5 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Translated complex statistical results into clinically meaningful conclusions for non-technical medical collaborators.
 - Authored a journal-style Methods and Results section, including clean tables and high-resolution figures.
 - Discussed methodological limitations, potential residual confounding, and appropriate interpretation of causal claims.
+
 
