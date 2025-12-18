@@ -3,15 +3,15 @@ title: "Recent Projects"
 permalink: /projects/
 ---
 
-## Rectal Cancer Survival and PDE5 Inhibitor Use
+<h1>Rectal Cancer Survival and PDE5 Inhibitor Use</h1>
 
-### Objective
+**Objective**
 
 To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated with overall survival among male rectal cancer patients undergoing surgery, using data from Clalit Research Room (HMO database), including clinical records and pharmaceutical purchase data for approximately 1,700 patients.
 
 ---
 
-### Data Preparation and Feature Engineering
+<h2>Data Preparation and Feature Engineering</h2>
 
 - Cleaned and validated clinical and pharmacy datasets, excluding patients who did not meet predefined inclusion criteria and removing irrelevant or unreliable variables.
 - Engineered exposure variables characterizing PDE5I use from longitudinal purchase data.
@@ -19,7 +19,7 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 
 ---
 
-### Statistical Analysis
+<h2>Statistical Analysis</h2>
 
 **1. Descriptive and Exploratory Analysis**
 
@@ -40,7 +40,7 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 
 ---
 
-### Communicating and Reporting Results
+<h2>Reporting Results</h2>
 
 - Translated complex statistical results into clinically meaningful conclusions for non-technical medical collaborators.
 - Authored a journal-style Methods and Results section, including clean tables and high-resolution figures.
