@@ -83,7 +83,7 @@ atom_feed:
 defaults:
   # _posts
   - scope:
-      path: "_projects"
+      path: ""
       type: posts
     values:
       layout: single
