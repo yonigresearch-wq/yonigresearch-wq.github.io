@@ -3,6 +3,8 @@
         url: /experience/
       - title: "Projects"
         url: /posts/
+      - title: "Categories"
+        url: /categories/
       - title: "Education"
         url: /education/
       - title: "CV"
