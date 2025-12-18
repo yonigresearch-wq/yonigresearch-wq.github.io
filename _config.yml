@@ -34,7 +34,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _projects
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -84,7 +83,7 @@ atom_feed:
 defaults:
   # _projects
   - scope:
-      path: "_projects"
+      path: ""
       type: posts
     values:
       layout: single
