@@ -5,15 +5,19 @@ permalink: /projects/
 
 <h2>Rectal Cancer Survival and PDE5 Inhibitor Use</h2>
 
-**Objective**
+<h3>Objective</h3>
 
 To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated with overall survival among male rectal cancer patients undergoing surgery, using data from Clalit Research Room (HMO database), including clinical records and pharmaceutical purchase data for approximately 1,700 patients.
+
+---
 
 <h3>Data Preparation and Feature Engineering</h3>
 
 - Cleaned and validated clinical and pharmacy datasets, excluding patients who did not meet predefined inclusion criteria and removing irrelevant or unreliable variables.
 - Engineered exposure variables characterizing PDE5I use from longitudinal purchase data.
 - Constructed time-to-event outcomes and covariates, incorporating diagnosis timelines and most recent clinical status prior to surgery.
+
+---
 
 <h3>Statistical Analysis</h3>
 
@@ -33,7 +37,9 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Estimated and compared survival using Cox proportional hazards models and log-rank tests in both unmatched and matched cohorts. 
 - Visualized survival differences with Kaplan–Meier curves.
 - Conducted subgroup analyses to explore heterogeneity of effects among PDE5I users and non-users.
-  
+
+---
+
 <h3>Reporting Results</h3>
 
 - Translated complex statistical results into clinically meaningful conclusions for non-technical medical collaborators.
