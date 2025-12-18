@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
 title: "Recent Projects"
+permalink: /projects/
 ---
 
 <h2>Rectal Cancer Survival and PDE5 Inhibitor Use</h2>
