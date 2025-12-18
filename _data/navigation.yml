@@ -1,11 +1,11 @@
     main:
       - title: "Experience"
         url: /experience/
-      - title: "Programming"
-        url: /programming/
+      - title: "Projects"
+        url: /projects/
       - title: "Education"
         url: /education/
       - title: "CV"
-        url: /cv/ 
+        url: /cv/
       - title: "Contact"
         url: /contact/
