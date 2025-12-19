@@ -36,7 +36,9 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Visualized survival differences with Kaplan–Meier curves.
 - Conducted subgroup analyses to explore heterogeneity of effects among PDE5I users and non-users.
 
-![Below are the KM plots pre- and post-matching: ](/assets/images/rectal_cancer_project.jpg)
+Below are the KM plots pre- and post-matching:
+
+![Figure 1: ](/assets/images/rectal_cancer_project.jpg)
 
 ---
 
@@ -46,5 +48,6 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Authored a journal-style Methods and Results section, including clean tables and high-resolution figures.
 
 - Discussed methodological limitations, potential residual confounding, and appropriate interpretation of causal claims.
+
 
 
