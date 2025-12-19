@@ -1,9 +1,7 @@
 ---
 layout: single
 title: "Yoni Green"
-excerpt: "<h2>Statistics | Biostatistics</h2> 
-<br>
-<br>"
+excerpt: "<h2>Statistics | Biostatistics</h2>"
 header:
   overlay_image: /assets/images/landing_img.png
   overlay_filter: 0.3
