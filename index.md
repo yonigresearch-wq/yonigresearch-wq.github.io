@@ -7,4 +7,5 @@ Cancer research Statistician and Biostats MSc student, with hands on experience 
 <br> <br> <br> <br> <br> <br> <br>"
 header:
   overlay_image: /assets/images/landing_img.png
+  overlay_filter: 0.5
 ---
