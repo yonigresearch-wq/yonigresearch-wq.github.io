@@ -3,6 +3,7 @@ title: Recent Projects
 layout: collection
 permalink: /portfolio/
 collection: portfolio
-entries_layout: posts
+entries_layout: list
+sort_order: reverse
 ---
 
