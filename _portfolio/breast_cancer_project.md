@@ -1,6 +1,6 @@
 ---
-title: "Dietary Trends and Ethnic Differences Among Breast Cancer Patients"
-excerpt: "Exploring post-diagnosis dietary preferences and consultation behavior among breast cancer patients as a factor of ethnicity"
+title: "Dietary Trends and Information Sources Among Breast Cancer Patients as a Factor of Ethnicity"
+excerpt: "Exploring pre- and post-diagnosis dietary preferences and consultation behavior among breast cancer patients as a factor of ethnicity"
 ---
 
 <h3>Objective:</h3>
@@ -56,6 +56,7 @@ The main results of the study are visualized below:
 - Summarized results cleanly in tables.
 - Created publication-quality visualizations (histograms and boxplots). 
 - Communicated results to non-technical medical researchers and assisted in drawing appropriate conclusions.
+
 
 
 
