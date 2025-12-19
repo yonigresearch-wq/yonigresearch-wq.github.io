@@ -1,6 +1,6 @@
 ---
 title: "Rectal Cancer Survival and PDE5 Inhibitor Use"
-excerpt: "Survival analysis of rectal cancer patients examining the association between PDE5 inhibitor use and overall survival using real-world HMO data."
+excerpt: "Examining the association between PDE5 inhibitor use and overall survival among post-surgery rectal cancer patients, using data from Clalit's Research Room."
 ---
 
 <h3>Objective</h3>
@@ -46,4 +46,5 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Authored a journal-style Methods and Results section, including clean tables and high-resolution figures.
 
 - Discussed methodological limitations, potential residual confounding, and appropriate interpretation of causal claims.
+
 
