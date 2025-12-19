@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Yoni Green"
 excerpt: "<h2>Statistics | Biostatistics</h2>"
 header:
