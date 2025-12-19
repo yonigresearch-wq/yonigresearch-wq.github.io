@@ -1,8 +1,6 @@
 ---
 title: "Rectal Cancer Survival and PDE5 Inhibitor Use"
 excerpt: "Survival analysis of rectal cancer patients examining the association between PDE5 inhibitor use and overall survival using real-world HMO data."
-header:
-  teaser: /assets/images/rectal_cancer_project.jpg
 ---
 
 <h3>Objective</h3>
@@ -38,6 +36,8 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Visualized survival differences with Kaplan–Meier curves.
 - Conducted subgroup analyses to explore heterogeneity of effects among PDE5I users and non-users.
 
+![Below are the KM plots pre- and post-matching: ](/assets/images/rectal_cancer_project.jpg)
+
 ---
 
 <h3>Reporting Results</h3>
@@ -46,3 +46,4 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Authored a journal-style Methods and Results section, including clean tables and high-resolution figures.
 
 - Discussed methodological limitations, potential residual confounding, and appropriate interpretation of causal claims.
+
