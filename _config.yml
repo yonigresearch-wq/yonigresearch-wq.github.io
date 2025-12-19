@@ -77,10 +77,23 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yonigresearch-wq"
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 atom_feed:
   hide: true
 
 defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # _posts
   - scope:
       path: ""
