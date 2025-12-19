@@ -1,6 +1,7 @@
 ---
 layout: splash
-title: "Yoni Green 
+title: "<br>
+Yoni Green 
 <br>"
 excerpt: "<h2>Statistics | Biostatistics</h2>"
 header:
