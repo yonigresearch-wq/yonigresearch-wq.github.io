@@ -1,7 +1,8 @@
 ---
 layout: splash
 author_profile: true
-header_image: /assets/images/landing_img.png
+header:
+  image: /assets/images/landing_img.png
 ---
 
 <br>
