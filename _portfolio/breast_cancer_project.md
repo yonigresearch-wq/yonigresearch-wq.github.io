@@ -38,13 +38,13 @@ taking into account multiple comparisons and p-value corrections.
 - Statistical analyses were selected based on the nature of the data: Wilcoxon and Kruskal-Wallis tests for Likert-scale and non-normally distributed continuous data, 
 and chi-squared tests for binary and categorical responses.
 
-![Figure 1: ](/assets/images/breast_cancer_project1.jpg)
+![Figure 1: ](/assets/images/breast_cancer_project1.png)
 
-![Figure 2: ](/assets/images/breast_cancer_project2.jpg)
+![Figure 2: ](/assets/images/breast_cancer_project2.png)
 
-![Figure 3: ](/assets/images/breast_cancer_project3.jpg)
+![Figure 3: ](/assets/images/breast_cancer_project3.png)
 
-![Figure 4: ](/assets/images/breast_cancer_project4.jpg)
+![Figure 4: ](/assets/images/breast_cancer_project4.png)
 
 ---
 
@@ -54,6 +54,7 @@ and chi-squared tests for binary and categorical responses.
 - Summarized results cleanly in tables.
 - Created publication-quality visualizations (histograms and boxplots). 
 - Communicated results to non-technical medical researchers and assisted in drawing appropriate conclusions.
+
 
 
 
