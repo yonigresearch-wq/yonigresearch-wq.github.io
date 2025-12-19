@@ -1,10 +1,9 @@
 ---
 layout: splash
 title: "Yoni Green"
-excerpt: "<h2>Statistics | Biostatistics</h2>
-<br>"
+excerpt: "<h2>Statistics | Biostatistics</h2>"
 header:
-  overlay_image: /assets/images/landing_img_croped.png
+  overlay_image: /assets/images/landing_img_croped2.png
 ---
 
 <br>
