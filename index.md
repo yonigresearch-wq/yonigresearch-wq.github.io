@@ -1,8 +1,7 @@
 ---
 layout: splash
 title: "<br> <br>
-Yoni Green 
-<br>"
+Yoni Green"
 excerpt: "<h2>Statistics | Biostatistics</h2>"
 header:
   overlay_image: /assets/images/index_img.png
