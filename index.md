@@ -1,8 +1,8 @@
 ---
 layout: splash
-author_profile: true
 header:
-  image: /assets/images/landing_img.png
+  overlay_image: /assets/images/landing_img.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 <br>
