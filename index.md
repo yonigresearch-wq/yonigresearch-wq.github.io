@@ -1,8 +1,10 @@
 ---
 layout: splash
-title: "<br> <br>
-Yoni Green"
-excerpt: "<h2>Statistics | Biostatistics</h2>"
+title: "<br>
+Yoni Green
+<br>"
+excerpt: "<h2>Statistics | Biostatistics</h2>
+<br>"
 header:
   overlay_image: /assets/images/index_img.png
   overlay_filter: 0.4
