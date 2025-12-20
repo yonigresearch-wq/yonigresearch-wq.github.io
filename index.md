@@ -3,8 +3,7 @@ layout: splash
 title: "<br>
 Yoni Green
 <br>"
-excerpt: "<h2>Statistics | Biostatistics</h2>
-<br>"
+excerpt: "<h2>Statistics | Biostatistics</h2>"
 header:
   overlay_image: /assets/images/index_img.png
   overlay_filter: 0.4
