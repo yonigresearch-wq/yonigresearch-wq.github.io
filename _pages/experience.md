@@ -32,7 +32,7 @@ title: "Experience"
 
 ---
 
-**Clinical Data Analyst | Regulation and Finance Study Coordinator**
+**Clinical Data Analyst and Regulatory-Finance Study Coordinator**
 
 *Psychiatric and Cancer Research Units, Emek Medical Center.*
 
