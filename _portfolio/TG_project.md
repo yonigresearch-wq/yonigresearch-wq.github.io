@@ -39,6 +39,8 @@ A secondary objective was to evaluate how ATG levels influence concordance betwe
 - Visualized concordant and non-concordant cases using stratified scatter plots.
 - Quantified the contribution of each analyzer to misclassification using summary tables and a pie chart of disagreement sources.
 
+The main results of the regression analysis, post ATG exclusion, are visulaized below: 
+
 ![Figure 1: ](/assets/images/TG1.png)
 
 ---
