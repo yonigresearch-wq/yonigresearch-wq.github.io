@@ -41,8 +41,6 @@ A secondary objective was to evaluate how ATG levels influence concordance betwe
 
 ![Figure 1: ](/assets/images/TG1.png)
 
-![Figure 2: ](/assets/images/TG2.png)
-
 ---
 
 <h3>Reporting Results:</h3>
