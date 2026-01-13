@@ -9,5 +9,5 @@ header:
   overlay_filter: 0.4
 ---
 
-Cancer research Statistician and Biostats MSc student, with hands on experience cleaning and analyzing real-world data, developing Machine Learning workflows and implementing advanced simulation methods. Experience communicating results and statistical insights to non-technical professionals across multi-disciplinary teams.
+Cancer research Statistician and Statistics MSc student, with hands on experience cleaning and analyzing real-world data, developing Machine Learning workflows and implementing advanced simulation methods. Experience communicating results and statistical insights to non-technical professionals across multi-disciplinary teams.
 
