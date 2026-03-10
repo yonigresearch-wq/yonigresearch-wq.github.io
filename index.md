@@ -9,4 +9,4 @@ header:
   overlay_filter: 0.4
 ---
 
-Cancer research Statistician, with hands on experience cleaning and analyzing real-world data, developing Machine Learning workflows and implementing advanced simulation methods. Experience communicating results and statistical insights to non-technical professionals across multi-disciplinary teams.
+Statistician and data analyst with experience leading end-to-end research projects and applying advanced statistical and machine learning methods to large-scale real-world data. Skilled at translating complex results into clear, actionable insights for non-technical stakeholders and producing high-quality reports and visualizations that support data-driven decision-making.
