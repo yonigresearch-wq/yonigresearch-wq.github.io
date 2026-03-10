@@ -52,24 +52,26 @@ The ancestry estimates for the 3-population model is visualized below using a te
 
 ![Figure 1: ](/assets/images/GWAS_strat2.png)
 
+Finally, the estimated ancestry proportions of the 2-population model were incorporated into the
+GWAS logistic regression models to control for population stratification.
+
+---
+
 <h3>Results and Conclusions:</h3>
 
 The first principal component and 2-population EM algorithm 
 revealed clear clustering of individuals into 3 distinct groups.
-The results of the 2-population versus 3-population EM models 
+The results of the 2-population versus 3-population EM models
 suggested two major ancestral populations with an admixture subgroup.
 While the 3-population model increased the likelihood, 
 the increase in model parameters when moving from 2 to 3 populations was not justified.
 
-Finally, the estimated ancestry proportions were incorporated into the
-GWAS logistic regression models to control for population stratification.
-
 Controlling for population stratification via both methods gave very similar results.
 While the original logistic regression analysis revealed many significantly associated SNPs 
 (even after accounting for multiplicity via Bonferroni's correction), 
-controlling for population stratification consistently obtained the single true SNP 
-as strongly association with the phenotype, with the (true) additive genetic model providing 
-the most plausible explanation of the effect.
+controlling for population stratification consistently obtained only the single true SNP 
+as significantly association with the phenotype, with the (true) additive genetic model providing 
+the most plausible explanation of the effect (as determined by p-value magnitude).
 
 This simulation indicates that both PCA and EM are powerful identifiers of population structure. 
 Although both methods have their advantages, in this case EM was slightly more 
