@@ -11,12 +11,13 @@ title: "Experience"
 
 2024 - Present
 
-- Consulted on the methodological planning of several clinical research projects in collaboration with unit investigators
-- Cleaned, validated and feature engineered real-world data from Israel’s largest HMO database (Clalit Research Room)
-- Processed diverse data types (demographic and clinical features, time data, purchase history)
-- Executed advanced statistical analyses and ML workflows, with an emphasis on survival (time-to-event) analyses
-- Created (journal quality) high resolution visualizations and clean summary tables of results
-- Clear communication of results and guiding non-technical researchers through the inference process, including co-authoring 2 manuscripts
+- Led the methodological planning and design of clinical research projects, in collaboration with multidisciplinary teams
+- Cleaned, validated, and engineered real-world datasets from Israel’s largest HMO database (Clalit Research Room)
+- Integrated and analyzed diverse data sources including demographic, clinical, temporal, and behavioral data
+- Designed and executed advanced statistical analyses and ML workflows, with emphasis on time-to-event and survey data
+- Produced high-quality visualizations, reports, and summary tables to communicate findings
+- Presented results and statistical insights to non-technical stakeholders, supporting interpretation, statistical inference and 
+research decision-making, including co-authoring multiple manuscripts
 
 --- 
 
@@ -26,9 +27,9 @@ title: "Experience"
 
 2025 - Present
 
-- Developing estimation methods for percentiles in permutation tests for high-dimensional genomic data
-- Applying advanced MCMC and Importance Sampling techniques in computational simulations
-- Focused on high-dimensional inference and determining significance thresholds for genome-wide studies
+- Developing an iterative stochastic descent method for estimating permutation test percentiles in high dimensional data
+- Applying advanced MCMC and Importance Sampling techniques in large-scale combinatorial simulations
+- Designing scalable computational workflows for significance threshold estimation in genome-wide association studies
 
 ---
 
@@ -38,6 +39,6 @@ title: "Experience"
 
 2022 - 2024
 
-- Performed parametric and non-parametric statistical analyses for clinical trial data over multiple research projects
-- Managed financial aspects of global studies, including budgetary appendices and negotiations and payment tracking
-- Exclusively handled regulatory affairs and communications with Helsinki committee for over 50 simultaneous studies
+- Performed statistical data analysis over multiple questionnaire studies, with emphasis on survey statistics
+- Managed operational and financial aspects of clinical studies, including budget projections, negotiations, and payment tracking
+- Coordinated regulatory submissions and communications for over 50 concurrent studies, collaborating with clinical teams, sponsors, and regulatory affairs to ensure smooth execution of time-sensitive research objectives
