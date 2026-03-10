@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Yoni Green"
   avatar : "assets/images/profile_pic.jpg"
-  bio    : 'Statistician and Biostatistics M.S.c Student'
+  bio    : 'Biostatistics and Data Analytics'
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
