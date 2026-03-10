@@ -46,11 +46,12 @@ The PC1 clusters can be seen below:
 
 ![Figure 1: ](/assets/images/GWAS_strat1.png)
 
+
 2. A custom Expectation–Maximization (EM) algorithm was implemented to estimate individual ancestry proportions under mixture models 
 with different numbers of populations. Models with two and three populations were compared using log-likelihood and BIC.
 The ancestry estimates for the 3-population model is visualized below using a ternary plot.
 
-![Figure 1: ](/assets/images/GWAS_strat2.png)
+![Figure 2: ](/assets/images/GWAS_strat2.png)
 
 Finally, the estimated ancestry proportions of the 2-population model were incorporated into the
 GWAS logistic regression models to control for population stratification.
