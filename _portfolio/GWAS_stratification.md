@@ -38,7 +38,9 @@ Multiple testing was addressed using Bonferroni correction. For each mode the mo
 Next, population structure, a major confounder in GWAS, was investigated.
 Two methods for identifying population stratification were compared:
 
-1. Principal Component Analysis (PCA) was used to detect latent population structure in the genotype matrix.  
+**1. Principal Component Analysis**
+
+Principal Component Analysis (PCA) was used to detect latent population structure in the genotype matrix.  
 Logistic regression analyses were repeated after removing the PC1 signal (whitening)
 and also by including PC1 as a covariate to correct for stratification.
 
@@ -47,7 +49,9 @@ The PC1 clusters can be seen below:
 ![Figure 1: ](/assets/images/GWAS_strat1.png)
 
 
-2. A custom Expectation–Maximization (EM) algorithm was implemented to estimate individual ancestry proportions under mixture models 
+**2. Expectation-Maximization**
+
+A custom Expectation–Maximization (EM) algorithm was implemented to estimate individual ancestry proportions under mixture models 
 with different numbers of populations. Models with two and three populations were compared using log-likelihood and BIC.
 The ancestry estimates for the 3-population model is visualized below using a ternary plot.
 
