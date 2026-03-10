@@ -42,9 +42,7 @@ Two methods for identifying population stratification were compared:
 
 Principal Component Analysis (PCA) was used to detect latent population structure in the genotype matrix.  
 Logistic regression analyses were repeated after removing the PC1 signal (whitening)
-and also by including PC1 as a covariate to correct for stratification.
-
-The PC1 clusters can be seen below:
+and also by including PC1 as a covariate to correct for stratification. The PC1 clusters can be seen below:
 
 ![Figure 1: ](/assets/images/GWAS_strat1.png)
 
@@ -53,7 +51,7 @@ The PC1 clusters can be seen below:
 
 A custom Expectation–Maximization (EM) algorithm was implemented to estimate individual ancestry proportions under mixture models 
 with different numbers of populations. Models with two and three populations were compared using log-likelihood and BIC.
-The ancestry estimates for the 3-population model is visualized below using a ternary plot.
+The ancestry estimates for the 3-population model is visualized below using a ternary plot:
 
 ![Figure 2: ](/assets/images/GWAS_strat2.png)
 
@@ -75,7 +73,7 @@ Controlling for population stratification via both methods gave very similar res
 While the original logistic regression analysis revealed many significantly associated SNPs 
 (even after accounting for multiplicity via Bonferroni's correction), 
 controlling for population stratification consistently obtained only the single true SNP 
-as significantly association with the phenotype, with the (true) additive genetic model providing 
+as significantly associated with the phenotype, with the (true) additive genetic inheritence model providing 
 the most plausible explanation of the effect (as determined by p-value magnitude).
 
 This simulation indicates that both PCA and EM are powerful identifiers of population structure. 
