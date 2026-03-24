@@ -35,19 +35,15 @@ To assess whether use of phosphodiesterase-5 inhibitors (PDE5Is) is associated w
 - Estimated and compared survival using Cox proportional hazards models and log-rank tests in both unmatched and matched cohorts. 
 - Visualized survival differences with Kaplan–Meier curves.
 - Conducted subgroup analyses to explore heterogeneity of effects among PDE5I users and non-users.
+- 
+---
 
-Below are the KM plots pre- and post-matching:
+<h3>Results and Conclusions</h3>
+
+Below are the KM plots pre- and post-matching, supporting the main results of the study:
 
 ![Figure 1: ](/assets/images/rectal_cancer_project.jpg)
 
----
-
-<h3>Reporting Results</h3>
-
-- Translated complex statistical results into clinically meaningful conclusions for non-technical medical collaborators.
-- Authored a journal-style Methods and Results section, including clean tables and high-resolution figures.
-
-- Discussed methodological limitations, potential residual confounding, and appropriate interpretation of causal claims.
-
+The findings suggest a strong association between PDE5I exposure and improved survival among rectal cancer patients. While residual confounding and healthy-user bias cannot be entirely excluded, the results support the hypothesis that PDE5 inhibitors may have potential as adjunctive agents in rectal cancer survivorship and motivate further prospective and mechanistic investigation.
 
 
